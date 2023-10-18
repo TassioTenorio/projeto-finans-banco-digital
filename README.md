@@ -1,2 +1,2 @@
-# projeto-finans-banco-digital
-Projeto finans é uma interface feita em html, css,  biblioteca fontawesome, de um banco de digital.
+# digital-bank-finans-project
+Project finans is an interface made in html, css, fontawesome library, from a digital bank.
